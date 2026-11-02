@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Lab35.Models/Lab35.Models.csproj" />
+  <Project Path="Lab35.DAL/Lab35.DAL.csproj" />
+  <Project Path="Lab35.BLL/Lab35.BLL.csproj" />
+  <Project Path="Lab35.PL/Lab35.PL.csproj" />
+  <Project Path="Lab35.Tests/Lab35.Tests.csproj" />
+</Solution>
